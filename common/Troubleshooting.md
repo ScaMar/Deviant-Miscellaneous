@@ -1,4 +1,6 @@
 # Troubleshooting
+* [QT wallet - The options in the "Tools" menu are not available](/common/Troubleshooting.md#qt-wallet---the-options-in-the-tools-menu-are-not-available)
+* [QT wallet does not sync anymore](/common/Troubleshooting.md#qt-wallet-does-not-sync-anymore)
 ## QT wallet - The options in the "Tools" menu are not available
 ### Issue
 You use Deviant-QT wallet on Windows operating system. <br />
